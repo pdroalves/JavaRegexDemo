@@ -1,0 +1,4 @@
+HOW TO RUN:
+
+In a terminal, compile it (make) then run:
+java -classpath bin: Regex/RegexDemo
